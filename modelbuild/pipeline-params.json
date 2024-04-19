@@ -1,0 +1,12 @@
+{
+    "SkipDataQualityCheck": true, 
+    "RegisterNewDataQualityBaseline": true, 
+    "SkipDataBiasCheck": true, 
+    "RegisterNewDataBiasBaseline": true, 
+    "SkipModelQualityCheck": true,
+    "RegisterNewModelQualityBaseline": true, 
+    "SkipModelBiasCheck": true, 
+    "RegisterNewModelBiasBaseline": true,
+    "SkipModelExplainabilityCheck": true,
+    "RegisterNewModelExplainabilityBaseline": true 
+}
